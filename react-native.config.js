@@ -2,10 +2,10 @@ module.exports = {
   project: {
     android: {
       sourceDir: './',
-      settingsGradlePath:'./settings.gradle'
+      settingsGradlePath: './settings.gradle',
     },
     ios: {
       project: './ios/',
     },
   },
-}
+};
